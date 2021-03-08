@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(12, 10, 10);
+}
+
+header img{
+    height: 150px;
+    width: 110px;
+}
+
+header {
+    font-weight: bold;
+    font-size: 20px;
+}
